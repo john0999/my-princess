@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/my-princess/static/css/main.c79130c4.css",
-    "main.js": "/my-princess/static/js/main.c9f3bccf.js",
+    "main.js": "/my-princess/static/js/main.e0e1c7c1.js",
     "static/js/453.378b455f.chunk.js": "/my-princess/static/js/453.378b455f.chunk.js",
     "index.html": "/my-princess/index.html",
     "main.c79130c4.css.map": "/my-princess/static/css/main.c79130c4.css.map",
-    "main.c9f3bccf.js.map": "/my-princess/static/js/main.c9f3bccf.js.map",
+    "main.e0e1c7c1.js.map": "/my-princess/static/js/main.e0e1c7c1.js.map",
     "453.378b455f.chunk.js.map": "/my-princess/static/js/453.378b455f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c79130c4.css",
-    "static/js/main.c9f3bccf.js"
+    "static/js/main.e0e1c7c1.js"
   ]
 }
