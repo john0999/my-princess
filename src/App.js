@@ -52,9 +52,9 @@ function App() {
               Gracias por existir, por estar aquí, por ser la respuesta a una búsqueda 
               que comenzó hace dos años y medio en una simple tarde de viernes.
             </p>
-            <p className="signature">Feliz Navidad, mi princesa 💕</p> 
+            <p className="signature">Feliz Navidad, mi princesa 😍🎆🎄</p> 
             <div style={{ textAlign: 'center' }}>
-              💕Keyla💕
+              💕TQM ❤️ Keyla💕
             </div>
           </div>
         </div>
