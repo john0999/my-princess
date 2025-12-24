@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/john0999/my-princess.git/static/css/main.c79130c4.css",
-    "main.js": "/john0999/my-princess.git/static/js/main.a3f2cd8b.js",
+    "main.js": "/john0999/my-princess.git/static/js/main.70d99e8e.js",
     "static/js/453.378b455f.chunk.js": "/john0999/my-princess.git/static/js/453.378b455f.chunk.js",
     "index.html": "/john0999/my-princess.git/index.html",
     "main.c79130c4.css.map": "/john0999/my-princess.git/static/css/main.c79130c4.css.map",
-    "main.a3f2cd8b.js.map": "/john0999/my-princess.git/static/js/main.a3f2cd8b.js.map",
+    "main.70d99e8e.js.map": "/john0999/my-princess.git/static/js/main.70d99e8e.js.map",
     "453.378b455f.chunk.js.map": "/john0999/my-princess.git/static/js/453.378b455f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c79130c4.css",
-    "static/js/main.a3f2cd8b.js"
+    "static/js/main.70d99e8e.js"
   ]
 }
