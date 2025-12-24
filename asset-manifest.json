@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/john0999/my-princess.git/static/css/main.c79130c4.css",
-    "main.js": "/john0999/my-princess.git/static/js/main.70d99e8e.js",
-    "static/js/453.378b455f.chunk.js": "/john0999/my-princess.git/static/js/453.378b455f.chunk.js",
-    "index.html": "/john0999/my-princess.git/index.html",
-    "main.c79130c4.css.map": "/john0999/my-princess.git/static/css/main.c79130c4.css.map",
-    "main.70d99e8e.js.map": "/john0999/my-princess.git/static/js/main.70d99e8e.js.map",
-    "453.378b455f.chunk.js.map": "/john0999/my-princess.git/static/js/453.378b455f.chunk.js.map"
+    "main.css": "/my-princess/static/css/main.c79130c4.css",
+    "main.js": "/my-princess/static/js/main.c9f3bccf.js",
+    "static/js/453.378b455f.chunk.js": "/my-princess/static/js/453.378b455f.chunk.js",
+    "index.html": "/my-princess/index.html",
+    "main.c79130c4.css.map": "/my-princess/static/css/main.c79130c4.css.map",
+    "main.c9f3bccf.js.map": "/my-princess/static/js/main.c9f3bccf.js.map",
+    "453.378b455f.chunk.js.map": "/my-princess/static/js/453.378b455f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c79130c4.css",
-    "static/js/main.70d99e8e.js"
+    "static/js/main.c9f3bccf.js"
   ]
 }
