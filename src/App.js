@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './logo.png';
 import './App.css';
 
 function App() {
@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         
         <div className="love-message">
-          <h1>Para Mi Amor 💖</h1>
+          <h1>Para Mi princesa, Mi Amor 💖</h1>
           
           <section className="memory">
             <h2>Nuestro Primer Encuentro</h2>
@@ -25,14 +25,14 @@ function App() {
           </section>
 
           <section className="christmas-message">
-            <h2>Esta Navidad Contigo</h2>
+            <h2>Quiero que</h2>
             <p>
-              En esta Navidad, miro hacia atrás y veo cómo aquella impresión inicial 
+              Un día antes de Navidad, miro hacia atrás y veo cómo aquella impresión inicial 
               se transformó en el amor más profundo que he conocido. Las luces navideñas 
               me recuerdan el brillo que vi en ti aquella tarde de mayo.
             </p>
             <p>
-              Eres el regalo que la vida me preparó durante tanto tiempo. Cada día a tu lado 
+              Eres el regalo que la vida me preparó durante tanto tiempo. Cada día 
               confirma que aquella espera valió la pena infinitamente.
             </p>
           </section>
@@ -42,7 +42,7 @@ function App() {
             <ul>
               <li>Nunca olvidar la magia de aquel primer encuentro</li>
               <li>Amarte con la profundidad de quien esperó para encontrar su alma gemela</li>
-              <li>Recordar cada Navidad aquel mayo que cambió nuestro destino</li>
+              <li>Recordar cada 23 de Diciembre como aquel mayo que cambió mi destino</li>
               <li>Escribir nuestra historia con paciencia y certeza</li>
             </ul>
           </section>
@@ -52,7 +52,10 @@ function App() {
               Gracias por existir, por estar aquí, por ser la respuesta a una búsqueda 
               que comenzó hace dos años y medio en una simple tarde de viernes.
             </p>
-            <p className="signature">Feliz Navidad, mi amor 💕</p>
+            <p className="signature">Feliz Navidad, mi princesa 💕</p> 
+            <div style={{ textAlign: 'center' }}>
+              💕Keyla💕
+            </div>
           </div>
         </div>
 
