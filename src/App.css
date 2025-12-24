@@ -36,3 +36,106 @@
     transform: rotate(360deg);
   }
 }
+
+.love-message {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: left;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 15px;
+  backdrop-filter: blur(5px);
+}
+
+.love-message h1 {
+  color: #ff6b8b;
+  font-size: 2.5em;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.love-message h2 {
+  color: #61dafb;
+  margin-top: 30px;
+  border-bottom: 2px solid rgba(97, 218, 251, 0.3);
+  padding-bottom: 10px;
+}
+
+.love-message h3 {
+  color: #ffd166;
+  margin-top: 25px;
+}
+
+.love-message p {
+  font-size: 1.1em;
+  line-height: 1.6;
+  margin: 15px 0;
+  text-align: justify;
+}
+
+.love-message ul {
+  text-align: left;
+  margin: 20px auto;
+  max-width: 600px;
+}
+
+.love-message li {
+  font-size: 1.1em;
+  line-height: 1.8;
+  margin: 10px 0;
+  padding-left: 10px;
+}
+
+.promises {
+  background: rgba(255, 209, 102, 0.1);
+  padding: 20px;
+  border-radius: 10px;
+  margin: 30px 0;
+}
+
+.final-message {
+  margin-top: 40px;
+  padding-top: 20px;
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.signature {
+  font-size: 1.3em !important;
+  font-weight: bold;
+  color: #ff6b8b;
+  text-align: center !important;
+  margin-top: 20px !important;
+}
+
+/* Animación suave para el mensaje */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.love-message {
+  animation: fadeIn 1.5s ease-out;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .love-message {
+    padding: 15px;
+    margin: 10px;
+  }
+  
+  .love-message h1 {
+    font-size: 2em;
+  }
+  
+  .love-message p {
+    font-size: 1em;
+    text-align: left;
+  }
+}
